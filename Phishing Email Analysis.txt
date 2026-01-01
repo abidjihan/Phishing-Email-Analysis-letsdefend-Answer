@@ -7,15 +7,15 @@ File Password: infected
 
 Question: If we wanted to respond to this email, what would be the recipient's address?
 
-info@letsdefend.io
+ANSWER :  info@letsdefend.io
 
 What year was the email sent?
 
-2022
+ANSWER : 2022
 
 What is the Message-ID? (without > < )
 
-74bda5edf824cea8aad36e707.675c34a61f.20220321204512.a02caaccf3.a268ce5a@mail41.suw13.rsgsv.net
+ANSWER : 74bda5edf824cea8aad36e707.675c34a61f.20220321204512.a02caaccf3.a268ce5a@mail41.suw13.rsgsv.net
 
 Email Header Analysis
 ----------------------
@@ -27,12 +27,13 @@ Question: Are the sender’s address and the address in the “Reply-To” area 
 
 Answer Format: Y/N
 
-Y
+ANSWER : Y
 
 If I want to reply to this email, which address will it be sent to?
 
-mrs.dara@daum.net
+ANSWER : mrs.dara@daum.net
 
 What IP address was the email sent from?
 
-222.227.81.181
+ANSWER : 222.227.81.181
+
